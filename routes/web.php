@@ -11,6 +11,4 @@
 |
 */
 
-Route::get('/', function () {
-    return view('char_roller');
-});
+Route::get('/', 'main_controller@index');

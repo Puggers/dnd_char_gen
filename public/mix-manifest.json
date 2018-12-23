@@ -1,5 +1,8 @@
 {
-    "/js/app.js": "/js/app.js",
-    "/css/app.css": "/css/app.css",
-    "/js/char_roller.js": "/js/char_roller.js"
+    "/js/app.js": "/js/app.js?id=6418b06cd8bf0afa8f7e",
+    "/css/app.css": "/css/app.css?id=d63fccb8666e94061184",
+    "/css/char_roller.css": "/css/char_roller.css?id=e312af69bbb350c4123c",
+    "/js/char_roller.js": "/js/char_roller.js?id=01dad0c27db658c99906",
+    "/js/jquery.shuffleLetters.js": "/js/jquery.shuffleLetters.js?id=cb57637b7f44f707c20b",
+    "/js/script.js": "/js/script.js?id=648ead6686a878f3980e"
 }
