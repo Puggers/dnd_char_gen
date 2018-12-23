@@ -1,0 +1,54 @@
+body {
+    background-color: #66D4FF;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 12pt;
+}
+
+.ezslots > .window {
+    overflow: hidden;
+    display: inline-block;
+
+}
+
+.ezslots > .window > .slider > .symbol {
+    text-align: center;
+    display: table;
+}
+
+.ezslots > .window > .slider > .symbol > .content {
+    padding: 0px;
+    margin: 0px;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.ezslots .window {
+    display: inline-flex;
+    border-radius: 200px 200px 200px 200px;
+    -moz-border-radius: 200px 200px 200px 200px;
+    -webkit-border-radius: 200px 200px 200px 200px;
+    border: 0px solid #000000;
+    margin: 50px;
+    background-color: #fff;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    margin-top: 20px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.btn-xlarge {
+    padding: 18px 28px;
+    font-size: 36px;
+/ / change this to your desired size line-height: normal;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+}
