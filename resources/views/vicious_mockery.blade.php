@@ -14,7 +14,7 @@
 <body>
 
 <div class ="box">
-    <a id="race" href="#" target="_blank">{{$mockery->text}}</a>
+    {{$mockery->text}}
 </div>
 
 </body>
