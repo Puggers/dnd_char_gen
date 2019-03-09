@@ -6,7 +6,6 @@ use App\DND_background;
 use App\DND_class;
 use App\DND_class_feature;
 use App\DND_race;
-use Illuminate\Http\Request;
 
 class main_controller extends Controller
 {

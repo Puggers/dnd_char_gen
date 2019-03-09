@@ -13,4 +13,3 @@
 
 Route::get('/', 'main_controller@index');
 Route::get('/vicious_mockery', 'ViciousController@index');
-Route::get('/collage', 'main_controller@collage');
