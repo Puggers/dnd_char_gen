@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 use App\ViciousMockery;
 
-class main_controller extends Controller
+class ViciousController extends Controller
 {
     function index()
     {
