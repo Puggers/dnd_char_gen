@@ -21,4 +21,10 @@ class main_controller extends Controller
         return view('char_roller', compact('race', 'class', 'background', 'class_feature'));
 
     }
+
+    function collage(){
+
+        return view('collage');
+
+    }
 }
